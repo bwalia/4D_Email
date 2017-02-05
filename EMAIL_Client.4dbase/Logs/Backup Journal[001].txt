@@ -1,0 +1,386 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [NOT FOUND]
+Scheduled 14/06/2014 21:17
+Starting 14/06/2014 21:17
+Ending 14/06/2014 21:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [NOT FOUND]
+Scheduled 15/06/2014 00:00
+Starting 19/08/2014 22:44
+Ending 19/08/2014 22:44
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0003].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [NOT FOUND]
+Scheduled 24/08/2014 00:00
+Starting 23/07/2015 15:48
+Ending 23/07/2015 15:48
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0004].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0003].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [NOT FOUND]
+Scheduled 26/07/2015 00:00
+Starting 17/09/2015 17:04
+Ending 17/09/2015 17:04
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0005].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0004].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [NOT FOUND]
+Scheduled 20/09/2015 00:00
+Starting 17/11/2015 11:59
+Ending 17/11/2015 11:59
+
+*** Full Backup
+Creating archive : D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\Email_Client[0001].4BK
+Creating log backup : D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\Email_Client[0000].4BL
+Attachment(s): 
+	D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncHeader [NOT FOUND]
+	D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncData [NOT FOUND]
+	D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DIndx [NOT FOUND]
+Scheduled 20/11/2015 15:53
+Starting 20/11/2015 15:53
+Ending 20/11/2015 15:53
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 20/11/2015 19:01
+Starting 20/11/2015 19:01
+Ending 20/11/2015 19:01
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 22/11/2015 00:00
+Starting 27/11/2015 13:32
+Ending 27/11/2015 13:32
+
+*** Full Backup
+Creating archive : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 27/11/2015 14:43
+Starting 27/11/2015 14:43
+Ending 27/11/2015 14:43
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 27/11/2015 16:42
+Starting 27/11/2015 16:42
+Ending 27/11/2015 16:42
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 29/11/2015 00:00
+Starting 02/12/2015 17:16
+Ending 02/12/2015 17:16
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0003].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 06/12/2015 00:00
+Starting 08/12/2015 08:09
+Ending 08/12/2015 08:09
+
+*** Full Backup
+Creating archive : D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\Email_Client[0001].4BK
+Creating log backup : D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\Email_Client[0000].4BL
+Attachment(s): 
+	D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncHeader [NOT FOUND]
+	D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncData [NOT FOUND]
+	D:\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DIndx [OK]
+Scheduled 08/12/2015 18:38
+Starting 08/12/2015 18:38
+Ending 08/12/2015 18:38
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 09/12/2015 09:54
+Starting 09/12/2015 09:54
+Ending 09/12/2015 09:55
+
+*** Full Backup
+Creating archive : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 10/12/2015 23:01
+Starting 10/12/2015 23:01
+Ending 10/12/2015 23:01
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 13/12/2015 14:22
+Starting 13/12/2015 14:22
+Ending 13/12/2015 14:22
+
+*** Full Backup
+Creating archive : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	BalinderWALIA_4TB:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 13/12/2015 23:21
+Starting 13/12/2015 23:21
+Ending 13/12/2015 23:21
+
+*** Full Backup
+Creating archive : C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\Email_Client[0001].4BK
+Creating log backup : C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\Email_Client[0000].4BL
+Attachment(s): 
+	C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncHeader [NOT FOUND]
+	C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncData [NOT FOUND]
+	C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv14_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DIndx [OK]
+Scheduled 18/12/2015 09:49
+Starting 18/12/2015 09:49
+Ending 18/12/2015 09:49
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 22/12/2015 15:02
+Starting 22/12/2015 15:02
+Ending 22/12/2015 15:02
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 27/12/2015 00:00
+Starting 30/12/2015 16:46
+Ending 30/12/2015 16:46
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0003].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 03/01/2016 00:00
+Starting 06/01/2016 09:51
+Ending 06/01/2016 09:51
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 01/02/2016 16:47
+Starting 01/02/2016 16:47
+Ending 01/02/2016 16:47
+
+*** Full Backup
+Creating archive : C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv15_Dev\EMAIL_Client.4dbase\Email_Client[0001].4BK
+Creating log backup : C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv15_Dev\EMAIL_Client.4dbase\Email_Client[0000].4BL
+Attachment(s): 
+	C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv15_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncHeader [NOT FOUND]
+	C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv15_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DSyncData [NOT FOUND]
+	C:\Users\tenthmatrix\Dropbox\4D Databases\4Dv15_Dev\EMAIL_Client.4dbase\EMAIL_Client.4DIndx [OK]
+Scheduled 04/05/2016 16:50
+Starting 04/05/2016 16:50
+Ending 04/05/2016 16:50
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 21/05/2016 21:59
+Starting 21/05/2016 21:59
+Ending 21/05/2016 21:59
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 22/05/2016 00:00
+Starting 22/05/2016 00:00
+Ending 22/05/2016 00:00
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0003].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 23/05/2016 00:00
+Starting 24/05/2016 00:36
+Ending 24/05/2016 00:36
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 03/06/2016 10:35
+Starting 03/06/2016 10:35
+Ending 03/06/2016 10:35
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 05/06/2016 00:00
+Starting 05/06/2016 00:42
+Ending 05/06/2016 00:42
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0003].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 06/06/2016 00:00
+Starting 06/06/2016 00:00
+Ending 06/06/2016 00:00
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0004].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0003].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 13/06/2016 00:00
+Starting 13/06/2016 12:43
+Ending 13/06/2016 12:43
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0005].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0004].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 19/06/2016 00:00
+Starting 16/07/2016 12:18
+Ending 16/07/2016 12:18
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0006].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0005].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 17/07/2016 00:00
+Starting 22/08/2016 09:43
+Ending 22/08/2016 09:43
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0007].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0004].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0006].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0003].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 28/08/2016 00:00
+Starting 28/08/2016 21:31
+Ending 28/08/2016 21:31
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0008].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0005].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0007].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:Email_Client[0004].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:EMAIL_Client.4dbase:EMAIL_Client.4DIndx [OK]
+Scheduled 04/09/2016 00:00
+Starting 11/10/2016 11:41
+Ending 11/10/2016 11:41
+

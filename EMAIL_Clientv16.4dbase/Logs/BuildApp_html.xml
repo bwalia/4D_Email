@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="LogStyleSheet.xsl"?>
+<verifylog operation="Build" name="EMAIL_Client" structure="Macintosh HD:Users:balinderwalia:Documents:4DApplications:4D_Email:EMAIL_Clientv16.4dbase:Email_Client.4DB" data="" os="Mac OS X (10.12.2)">
+<start_timer time="2017-01-29T12:35:03+00:00"/>
+<stop_timer time="2017-01-29T12:35:05+00:00" success="true" user_canceled="false"/>
+<step title="Building component">
+<step title="Start compilation [2017-01-29T12:35:03]"></step>
+<step title="Start copying files : Macintosh HD:Users:balinderwalia:Documents:4DApplications:4D_Email:Email_Client_Build:Components:EMAIL_Client.4dbase:EMAIL_Client.4DC"></step>
+<step title="End copying files : Macintosh HD:Users:balinderwalia:Documents:4DApplications:4D_Email:Email_Client_Build:Components:EMAIL_Client.4dbase:EMAIL_Client.4DC"></step>
+<step title="End compilation [2017-01-29T12:35:05]"></step>
+</step>
+</verifylog>
